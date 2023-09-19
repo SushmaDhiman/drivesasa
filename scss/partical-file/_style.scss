@@ -1,18 +1,23 @@
 .img {
-  background: linear-gradient(rgba(26, 25, 25, 0.2), rgba(74, 73, 73, 0.6)),
-    url("/drivesasa/img/hakon-sataoen-XFiY4FZj8ZE-unsplash\ 1\ \(1\).jpg");
+  background:  url("/drivesasa/img/hakon-sataoen-XFiY4FZj8ZE-unsplash.png");
   height: 1100px;
+  .container-fluid{
+    background-image: linear-gradient(to bottom, rgba(8, 7, 7, 0.8), #f7efeffa);
+   }
 }
-.driversasa {
-  font-family: jost;
+.navbar{
+  font-size: 18px;
+ font-weight: 500;
 }
 .bg-img {
-  background: url("/drivesasa/img/Rectangle\ 2.png");
-  height: 600px;
+  background: url("/drivesasa/img/Rectangle.png");
+height: 923px;
+width: 1920px;
 }
-#headerDrivesasa {
-  margin-bottom: 240px;
+#cards {
+  height: 240px;
 }
+
 .text-bg-light .person {
   font-size: 10px;
 }
@@ -23,15 +28,14 @@
   background: url("/drivesasa/img/783e41c4c6c2559729f5e50cfd738d93.png");
   height: 700px;
 }
-.card-text{
-  font-size: 10px;
-}
 .text{
   font-size: 6px;
 }
-.card-title{
-  font-size: 15px;
+
+.bg-img1{
+  background: url("/drivesasa/img/8e5554a907f8854386174962cba02cbf.png");
 }
 .paragraph{
-  font-size: 13px;
+  font-size: 14px;
 }
+
