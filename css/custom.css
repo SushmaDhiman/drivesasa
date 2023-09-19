@@ -2,7 +2,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
 .img {
-  background: url("/drivesasa/img/hakon-sataoen-XFiY4FZj8ZE-unsplash.png");
+  background: url("../../img/hakon-sataoen-XFiY4FZj8ZE-unsplash.png");
   height: 1100px;
 }
 .img .container-fluid, .img .container-xxl, .img .container-xl, .img .container-lg, .img .container-md, .img .container-sm {
@@ -15,9 +15,8 @@
 }
 
 .bg-img {
-  background: url("/drivesasa/img/Rectangle.png");
+  background: url("../../img/Rectangle.png");
   height: 923px;
-  width: 1920px;
 }
 
 #cards {
@@ -33,7 +32,7 @@
 }
 
 .image {
-  background: url("/drivesasa/img/783e41c4c6c2559729f5e50cfd738d93.png");
+  background: url("../../img/783e41c4c6c2559729f5e50cfd738d93.png");
   height: 700px;
 }
 
@@ -42,7 +41,7 @@
 }
 
 .bg-img1 {
-  background: url("/drivesasa/img/8e5554a907f8854386174962cba02cbf.png");
+  background: url("../../img/8e5554a907f8854386174962cba02cbf.png");
 }
 
 .paragraph {
