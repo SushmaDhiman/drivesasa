@@ -1,14 +1,13 @@
 $h1-font-size: 6rem;
 $h6-font-size:1.25rem;
 $h2-font-size:3rem;
-$secondary:rgb(124, 126, 135);
+
 $font-weight-bold: 900;
 $font-family-base:'Poppins', sans-serif;
 // scss-docs-start theme-text-variables
-$primary-text-emphasis:#10255A;
-$danger-text-emphasis:#BC2A2B;
-$dark-text-emphasis:#283646;
-$info:#10255A;
+
+
+
 // scss-docs-end theme-text-variables
 $display-font-sizes: (
   1: 6.875rem,
@@ -19,7 +18,11 @@ $display-font-family:'Jost', sans-serif;
 // $display-font-weight: 900
 $font-weight-bolder:900;
 $font-weight-lighter:800;
-
+// scss-docs-start theme-colors-map
+$primary-color:#082057;
+$light-color:#FFF;
+$danger-color:#BC2A2B;  
+// scss-docs-end theme-colors-map
    
  
    
