@@ -3,12 +3,30 @@
 @import "./partical-file/variable";
 // scss-docs-start theme-colors-map
 $theme-colors: (
-  "primary":    $primary-color,
-  "light":      $light-color,
-  "danger":     $danger-color,
+  "primary":$primary-color,
+  "light":$light-color,
+  "danger":$danger-color,
+  "secondary":$secondary-color,
+  "success":$success-color,
  );
 // scss-docs-end theme-colors-map
-
+$h1-font-size: 6rem;
+$h6-font-size:1.25rem;
+$h2-font-size:3rem;
+$font-family-base:'Poppins', sans-serif;
+$display-font-family:'Jost', sans-serif;
+// scss-docs-start display-headings
+$display-font-sizes: (
+  1: 6.875rem,
+  2: 1rem,
+  6: 1.563rem
+);
+// scss-docs-end display-headings
+// $display-font-weight: 900
+$font-weight-bolder:900;
+$font-weight-lighter:800;
+$font-weight-bold: 900;
+// scss-docs-start theme-colors-map
 @import "./partical-file/style";
 @import "../node_modules/bootstrap/scss/bootstrap";
 
