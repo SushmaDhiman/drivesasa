@@ -11,9 +11,11 @@ $theme-colors: (
   "info":$info-color,
  );
 // scss-docs-end theme-colors-map
+// scss-docs-start font-sizes
 $h1-font-size: 6rem;
 $h6-font-size:1.25rem;
 $h2-font-size:3rem;
+// scss-docs-end font-sizes
 $font-family-base:'Poppins', sans-serif;
 $display-font-family:'Jost', sans-serif;
 // scss-docs-start display-headings
