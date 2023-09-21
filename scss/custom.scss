@@ -9,6 +9,8 @@ $theme-colors: (
   "secondary":$secondary-color,
   "success":$success-color,
   "info":$info-color,
+  "dark":$dark-color,
+  "warning":$warning-color,
  );
 // scss-docs-end theme-colors-map
 // scss-docs-start font-sizes
@@ -16,6 +18,8 @@ $h1-font-size: 6rem;
 $h6-font-size:1.25rem;
 $h2-font-size:3rem;
 $h4-font-size:4rem;
+$h5-font-size:2.25rem;
+$h3-font-size:2.5rem;
 // scss-docs-end font-sizes
 $font-family-base:'Poppins', sans-serif;
 $display-font-family:'Jost', sans-serif;
