@@ -28,6 +28,10 @@
   height: 1000px;
 }
 
+.bg-img1 {
+  background: url("../../img/rang-rover.png");
+}
+
 /*!
  * Bootstrap  v5.3.1 (https://getbootstrap.com/)
  * Copyright 2011-2023 The Bootstrap Authors
@@ -272,11 +276,11 @@ h3, .h3 {
 }
 
 h4, .h4 {
-  font-size: calc(1.275rem + 0.3vw);
+  font-size: calc(1.525rem + 3.3vw);
 }
 @media (min-width: 1200px) {
   h4, .h4 {
-    font-size: 1.5rem;
+    font-size: 4rem;
   }
 }
 
@@ -8088,7 +8092,7 @@ textarea.form-control-lg {
 }
 
 .fs-4 {
-  font-size: calc(1.275rem + 0.3vw) !important;
+  font-size: calc(1.525rem + 3.3vw) !important;
 }
 
 .fs-5 {
@@ -11618,7 +11622,7 @@ textarea.form-control-lg {
     font-size: 1.75rem !important;
   }
   .fs-4 {
-    font-size: 1.5rem !important;
+    font-size: 4rem !important;
   }
 }
 @media print {
