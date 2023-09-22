@@ -11,6 +11,8 @@ $theme-colors: (
   "info":$info-color,
   "dark":$dark-color,
   "warning":$warning-color,
+  "gray":$gray-color,
+  "steel":$steel-color,
  );
 // scss-docs-end theme-colors-map
 // scss-docs-start font-sizes
@@ -27,7 +29,8 @@ $display-font-family:'Jost', sans-serif;
 $display-font-sizes: (
   1: 6.875rem,
   2: 1rem,
-  6: 1.563rem
+  6: 1.563rem,
+  4: 4rem,
 );
 // scss-docs-end display-headings
 // $display-font-weight: 900
