@@ -1,5 +1,6 @@
 .img {
   background: url("../../img/hakon-sataoen-XFiY4FZj8ZE-unsplash.png");
+  background-repeat: no-repeat;
   height: 1100px;
   .container-fluid {
     background-image: linear-gradient(to bottom, rgba(8, 7, 7, 0.8), #f7efeffa);
@@ -11,6 +12,7 @@
 }
 .bg-img {
   background: url("../../img/Rectangle.png");
+  background-repeat: no-repeat;
   height: 923px;
 }
 #cards {
@@ -18,16 +20,27 @@
 }
 .image {
   background: url("../../img/783e41c4c6c2559729f5e50cfd738d93.png");
+  background-repeat: no-repeat;
   height: 1000px;
 }
 .bg-img1{
   background: url("../../img/rang-rover.png");
+  background-repeat: no-repeat;
  }
  .bg-img2{
   background: url("../../img/vendor-info.png");
+  background-repeat: no-repeat;
   height: 1000px;
  }
  .img-marketplace{
   background: url("../../img/marketplace.png");
-  height: 850px;
+  background-repeat: no-repeat;
+}
+.img-servicecenter{
+  background: url("../../img/servicecenter.png");
+  background-repeat: no-repeat;
+}
+.img-blog{
+  background: url("../../img/blog.png");
+  background-repeat: no-repeat;
 }
